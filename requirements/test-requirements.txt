@@ -37,3 +37,5 @@ textstat
 # Required by progress bar tests
 ipywidgets
 tqdm
+mlflow>=2.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
