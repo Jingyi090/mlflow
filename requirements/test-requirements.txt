@@ -37,3 +37,4 @@ textstat
 # Required by progress bar tests
 ipywidgets
 tqdm
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
